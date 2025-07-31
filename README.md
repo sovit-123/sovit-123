@@ -1,8 +1,6 @@
 # Hello
 
-
-
-Indie AI engineer
+AI engineer on both Computer Vision and LLMs.
 
 Repositories: [Repos](https://github.com/sovit-123?tab=repositories)
 
